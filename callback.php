@@ -1,4 +1,12 @@
  <?php
+ /**
+ * DNSPod OAuth 2.0 Demo (附SDK PHP版)
+ *
+ * Copyright 2013, Yizero
+ * Released under the MIT, BSD, and GPL Licenses.
+ *
+ **/
+
 session_start();
 require_once 'lib/config.php';
 require_once 'lib/DNSPod.php';
