@@ -13,3 +13,6 @@ dnspod-oauth-client
 3. json
 4. curl
 
+## Link
+1. 姊妹应用 DNSPod Python版 SDK: [https://github.com/onlytiancai/dnspod-oauth-client-py](https://github.com/onlytiancai/dnspod-oauth-client-py)
+
